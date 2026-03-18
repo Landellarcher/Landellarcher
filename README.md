@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...good developers
 - 🌱 I’m currently learning ...how to recruit the best people
 - 💞️ I’m looking to collaborate on ...human centred products
-- 📫 How to reach me ...landell@elypsys.co
+- 📫 How to reach me ...landell.archer@pexip.com
 
 <!---
 Landellarcher/Landellarcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
